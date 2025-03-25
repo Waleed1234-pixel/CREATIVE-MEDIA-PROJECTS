@@ -1,4 +1,4 @@
-🎬 Other Animation Projects
+🎬 •	CREATIVE MEDIA PROJECTS
 A mix of 2D and 3D animations, including product showcases, environment simulations, and fun character animations.
 
 🌟 Animations Included:
@@ -7,9 +7,11 @@ A mix of 2D and 3D animations, including product showcases, environment simulati
 🔹 Glass of Juice (3D - Blender) – A liquid simulation showcasing a refreshing drink being poured into a glass.
 🔹 Animated Pillow on Stage (2D) – A fun 2D animation of a bouncing pillow performing on a stage.
 
-📂 Watch & Download:
-🔹 Watch All Animations:
-🔹 Download Animation Files: [Watch and download ](https://drive.google.com/drive/folders/1SB4Hd4NWuKGKgIWu2f0_8D4jNj_adZvO?usp=sharing)
+Brochure designed in Adobe Illustrator with UI prototyping in Figma, focusing on layout, branding, and user experience.
+
+🔹 [](https://drive.google.com/drive/folders/1SB4Hd4NWuKGKgIWu2f0_8D4jNj_adZvO?usp=sharing)
+
+
 
 
 
