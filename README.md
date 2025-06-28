@@ -9,7 +9,7 @@ A mix of 2D and 3D animations, including product showcases, environment simulati
 
 Brochure designed in Adobe Illustrator with UI prototyping in Figma, focusing on layout, branding, and user experience.
 
-🔹 [View Project Files on Google Drive](https://drive.google.com/file/d/1k3lieGGmuaYlD9AuNJL1h3m7vIRAOBTp/view?usp=drive_link)
+🔹 [View Project Files on Google Drive](https://drive.google.com/drive/folders/1SB4Hd4NWuKGKgIWu2f0_8D4jNj_adZvO?usp=sharing)
 
 
 
